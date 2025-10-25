@@ -1,1 +1,1 @@
-# comp-entry
+# Designed an automated UK competition scraper and entry program. Output of submitted competitions is fed to an excel document for viewing. This shows the competition, prize, closing date and submission confirmation. 
