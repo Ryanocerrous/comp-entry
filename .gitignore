@@ -1,0 +1,21 @@
+# Virtual environments
+.comp-scraper-venv/
+.venv/
+
+# Editor metadata
+.vscode/
+
+# Generated reports
+*.xlsx
+competition_summary.txt
+
+# Run state
+competition_state.json
+
+# Automation artifacts
+auto_entries/
+drivers/
+
+# Python cache artifacts
+__pycache__/
+*.pyc

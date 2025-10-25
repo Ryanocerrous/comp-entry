@@ -1,0 +1,9 @@
+{
+  "headless": false,
+  "wait_timeout": 15,
+  "submit_selector": "button[type='submit'], input[type='submit'], button",
+  "human_delay_seconds": [0.6, 1.4],
+  "close_delay_seconds": 3,
+  "pause_on_captcha": true,
+  "webdriver_path": "drivers/chromedriver"
+}

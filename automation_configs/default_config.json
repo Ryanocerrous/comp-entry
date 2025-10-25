@@ -1,0 +1,8 @@
+{
+  "headless": true,
+  "wait_timeout": 12,
+  "submit_selector": "button[type='submit'], input[type='submit'], button",
+  "human_delay_seconds": [0.4, 1.0],
+  "close_delay_seconds": 2,
+  "screenshot_dir": "auto_entries/default"
+}

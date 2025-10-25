@@ -1,0 +1,7 @@
+{
+  "url": "https://example-contest-page.com/enter",
+  "headless": false,
+  "wait_timeout": 10,
+  "submit_selector": "button[type='submit']",
+  "human_delay_seconds": [0.5, 1.2]
+}

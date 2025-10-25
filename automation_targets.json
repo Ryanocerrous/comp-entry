@@ -1,0 +1,21 @@
+{
+  "defaults": {
+    "config": "automation_configs/default_config.json",
+    "data": "automation_configs/default_data.json",
+    "screenshot_dir": "auto_entries"
+  },
+  "targets": [
+    {
+      "match": "theprizefinder.com/link-track",
+      "config": "automation_configs/prizefinder_config.json",
+      "data": "automation_configs/prizefinder_data.json",
+      "screenshot_dir": "auto_entries/prizefinder"
+    },
+    {
+      "match": "competitions-time.co.uk/redir/",
+      "config": "automation_configs/competitions_time_config.json",
+      "data": "automation_configs/competitions_time_data.json",
+      "screenshot_dir": "auto_entries/competitions_time"
+    }
+  ]
+}
